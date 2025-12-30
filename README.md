@@ -1,5 +1,7 @@
 Hi, I'm Tanishq 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=450&lines=CS+Undergraduate;Backend+Developer;Node.js+%7C+MongoDB;DSA+in+C%2B%2B)
+
 CS Undergraduate focused on Backend Development and Problem Solving.
 
 💻 Building REST APIs using Node.js, Express, MongoDB
