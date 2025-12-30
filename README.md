@@ -1,4 +1,6 @@
-Hi, I'm Tanishq 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>Hi, I'm Tanishq 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=450&lines=CS+Undergraduate;Backend+Developer;Node.js+%7C+MongoDB;DSA+in+C%2B%2B)
 
