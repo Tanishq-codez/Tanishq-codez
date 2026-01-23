@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/tanishq-codez/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
